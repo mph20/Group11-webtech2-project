@@ -39,12 +39,12 @@ if(!$user_ID){
 				</header>
 <form method="post">
     <p>
-        <label for="username">Username/Email</label>
+        <label for="username">Username/Email</label><br/>
         <input type="text" id="username" name="username" placeholder="Enter Username/Email"/>
     </p>
 
     <p>
-        <label for="password">Password/Email</label>
+        <label for="password">Password</label><br/>
         <input type="password" id="password" name="password" placeholder="Enter Password"/>
     </p>
 
